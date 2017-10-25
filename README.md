@@ -12,4 +12,4 @@ A project that features a wepage displaying a simulated calculator with fully fu
 
 Open web browser
 
-Navigate to url https://
+Navigate to url https://calc-javascript.herokuapp.com/
